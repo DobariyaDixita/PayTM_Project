@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
+"./center": "./src/center.tsx",
+"./select": "./src/select.tsx",
+    "./textinput": "./src/textinput.tsx",
+    "./appbar": "./src/appbar.tsx",
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
     "./code": "./src/code.tsx"
